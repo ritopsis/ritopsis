@@ -2,7 +2,9 @@
     <table>
         <tr>
             <td>
-                <img src="https://static.wikia.nocookie.net/skul/images/2/2d/Grand_Mage_Idle.gif/revision/latest?cb=20220803015542" alt="Mage" width="150" height="200">
+                <p>ㅤㅤ
+                   <img src="https://static.wikia.nocookie.net/skul/images/2/2d/Grand_Mage_Idle.gif/revision/latest?cb=20220803015542" alt="Mage" width="150" height="200">
+                </p>
             </td>
             <td>
                <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
@@ -13,7 +15,9 @@
         </tr>
          <tr>
             <td>
-                <img src="https://static.wikia.nocookie.net/skul/images/1/11/Archlich_Idle.gif/revision/latest?cb=20220802031956" alt="Mage2" width="150" height="200">
+                <p>ㅤ
+                    <img src="https://static.wikia.nocookie.net/skul/images/1/11/Archlich_Idle.gif/revision/latest?cb=20220802031956" alt="Mage2" width="150" height="210" >
+                </p>
             </td>
             <td>
                <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
@@ -42,7 +46,7 @@
         </tr>
         <tr>
             <td>
-                <img src="https://static.wikia.nocookie.net/skul/images/7/7d/Abyssal_Monarch_Idle.gif/revision/latest?cb=20220727044420" alt="skul" width="260" height="200">
+                <img src="https://static.wikia.nocookie.net/skul/images/7/7d/Abyssal_Monarch_Idle.gif/revision/latest?cb=20220727044420" alt="skul" width="300" height="200">
             </td>
             <td>
                <p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
