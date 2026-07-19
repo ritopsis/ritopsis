@@ -56,15 +56,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ritopsis/ritopsis/gh-pages/github-contribution-grid-snake-dark.svg?v=3"
+    srcset="https://raw.githubusercontent.com/ritopsis/ritopsis/gh-pages/github-snake-purple-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ritopsis/ritopsis/gh-pages/github-contribution-grid-snake.svg?v=3"
+    srcset="https://raw.githubusercontent.com/ritopsis/ritopsis/gh-pages/github-snake-purple.svg"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ritopsis/ritopsis/gh-pages/github-contribution-grid-snake.svg?v=3"
+    src="https://raw.githubusercontent.com/ritopsis/ritopsis/gh-pages/github-snake-purple.svg"
     width="100%"
   />
 </picture>
